@@ -1,2 +1,2 @@
 # Webpages
-new
+E115 HTML Assignment
